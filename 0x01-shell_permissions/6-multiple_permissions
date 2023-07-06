@@ -1,0 +1,2 @@
+#!/bin/bashy
+chmod ug+x,o+r hello
